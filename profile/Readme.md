@@ -42,13 +42,18 @@
 
 ## 💻 Core Technologies
 
-<!-- Creative alternative to the broken stats: A robust, unbreakable tech stack visual -->
+<!-- Hardware & Architecture Stack in Rounded Badges -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,docker,bash&theme=dark" /><br>
-  <br>
-  <img src="https://img.shields.io/badge/Verilog-0D1117?style=for-the-badge&logo=siemens&logoColor=00FFFF&border=00FFFF" />
-  <img src="https://img.shields.io/badge/SystemVerilog-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FF3399&border=FF3399" />
-  <img src="https://img.shields.io/badge/VHDL-0D1117?style=for-the-badge&logo=alteryx&logoColor=007ACC&border=007ACC" />
+  <img src="https://img.shields.io/badge/RISC--V-0D1117?style=flat&logo=riscv&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/ARM-0D1117?style=flat&logo=arm&logoColor=FF3399" />
+  <img src="https://img.shields.io/badge/x86_ISA-0D1117?style=flat&logo=intel&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Xilinx_FPGAs-0D1117?style=flat&logo=amd&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/GPUs_(NVIDIA)-0D1117?style=flat&logo=nvidia&logoColor=76B900" />
+  <img src="https://img.shields.io/badge/NPUs_&_Accelerators-0D1117?style=flat&logo=open-source-initiative&logoColor=FF3399" />
+  <br><br>
+  <img src="https://img.shields.io/badge/QEMU-0D1117?style=flat&logo=qemu&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/gem5-0D1117?style=flat&logo=cplusplus&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Icarus_Verilog-0D1117?style=flat&logo=siemens&logoColor=FF3399" />
 </p>
 
 <!-- Animated Divider -->
@@ -63,7 +68,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=4000&amp;pause=2000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=📦+Meminductor-Emulator+%7C+Python+%7C+Neuromorphic;⚡+Sobel-Edge-Detection+%7C+FPGA+%7C+Systolic;🔗+AMBA-AHB-Controller+%7C+Verilog+%7C+Verification" alt="Rotating Projects" />
 </p>
 
-<!-- Custom Unbreakable Project Cards (Replaced the broken Vercel API links) -->
+<!-- Custom Unbreakable Project Cards -->
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -126,7 +131,7 @@
 </p>
 
 <p align="center">
-  <em>Meet the top engineers shaping the future of open-source silicon:</em><br><br>
+ 
   <a href="https://github.com/VLSI-INTEGRATION/.github/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=VLSI-INTEGRATION/.github&amp;max=4" alt="Top 4 Contributors" />
   </a>
