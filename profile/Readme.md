@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <em>Meet the top engineers shaping the future of open-source silicon:</em><br><br>
+ 
   <a href="https://github.com/VLSI-INTEGRATION/.github/graphs/contributors">
     <img src="https://contrib.rocks/image?repo=VLSI-INTEGRATION/.github&amp;max=4" alt="Top 4 Contributors" />
   </a>
